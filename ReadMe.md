@@ -25,5 +25,12 @@ If you have any questions contact me on [GitHub](https://github.com/dpawline) or
 Devin Pawline at devinpawline@outlook.com
 ![picture](https://github.com/dpawline.png?size=80)
 
+Video of Functionality: 
+
+
+https://user-images.githubusercontent.com/79121046/129935573-e9437a9d-9f66-460f-82ee-66c2861f8923.mp4
+
+
+
 
  
